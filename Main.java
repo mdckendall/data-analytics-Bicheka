@@ -15,6 +15,7 @@ class Main {
 			arrayList.add(fileScanner.nextLine());
 		}
 		Scanner scanner = new Scanner(System.in);
+
 		do{
 			System.out.println("Press 1 to learn about salary.");
 			System.out.println("Press 2 to learn about the job.");
